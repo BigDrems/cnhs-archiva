@@ -1,0 +1,22 @@
+# Node.js dependencies
+node_modules/
+**/node_modules/
+
+# Build output
+dist/
+build/
+
+# Environment variables
+.env
+.env.*.local
+
+# Logs
+*.log
+logs/
+
+# IDEs and OS files
+.vscode/
+.DS_Store
+
+#Sample code
+student_record_api.js
